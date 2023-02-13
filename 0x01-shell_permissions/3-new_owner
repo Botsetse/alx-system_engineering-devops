@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown julien betty
+sudo chown betty
